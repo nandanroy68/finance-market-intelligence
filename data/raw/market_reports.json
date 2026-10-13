@@ -1,0 +1,102 @@
+[
+  {
+    "id": "MR001",
+    "title": "Indian IT Sector Q3 2024 Analysis",
+    "category": "Sector Analysis",
+    "date": "2024-10-15",
+    "content": "The Indian IT sector demonstrated resilience in Q3 2024 despite global macroeconomic headwinds. TCS reported revenue of ₹64,259 crore (up 5.5% YoY) with EBIT margin of 24.4%. Infosys raised its revenue growth guidance to 4-4.5% for FY25, driven by strong deal wins of $4.1 billion in Q2. Wipro showed sequential revenue growth of 1.2% in constant currency terms. Key trends: 1) Generative AI deals are accelerating, with TCS reporting 70+ GenAI engagements; 2) BFSI vertical showing recovery with deal pipeline strengthening; 3) Margin pressure from wage hikes partially offset by operational efficiencies; 4) Attrition rates stabilized at 12-14% across top firms. Risks: US recession concerns, pricing pressure from AI automation, and INR appreciation. Recommendation: Overweight on TCS and Infosys; Neutral on Wipro and HCL Tech.",
+    "source": "Market Research Report",
+    "sector": "Information Technology",
+    "sentiment": "cautiously_optimistic"
+  },
+  {
+    "id": "MR002",
+    "title": "Banking Sector Outlook FY2025",
+    "category": "Sector Analysis",
+    "date": "2024-09-28",
+    "content": "Indian banking sector continues its strong performance trajectory. Credit growth remained robust at 15.8% YoY as of August 2024, driven by retail (personal loans, housing) and MSME segments. Key highlights: 1) HDFC Bank reported a net profit of ₹16,811 crore in Q2 FY25 with NIM at 3.46%; 2) SBI's net NPA improved to 0.57% from 0.67% YoY; 3) ICICI Bank showed strong growth with ROE at 17.3%; 4) Private sector banks continue to gain market share from PSU banks. Concerns: 1) RBI's increased risk weights on unsecured loans (consumer credit, NBFC lending) may slow growth; 2) Deposit mobilization remains challenging with credit-deposit ratio at elevated 78%; 3) Potential asset quality stress in microfinance and unsecured retail segments. Nifty Bank index trading at 22x forward P/E, above 5-year average of 18x.",
+    "source": "Market Research Report",
+    "sector": "Banking & Financial Services",
+    "sentiment": "positive"
+  },
+  {
+    "id": "MR003",
+    "title": "Indian Pharmaceutical Sector: Global Opportunities",
+    "category": "Sector Analysis",
+    "date": "2024-11-01",
+    "content": "India's pharmaceutical sector is positioned for multi-year growth driven by three pillars: generics, biosimilars, and CDMO. Market size expected to grow from $50 billion to $130 billion by 2030. Key developments: 1) Sun Pharma leads with specialty portfolio contributing 35% of US revenue; 2) Dr. Reddy's biosimilar pipeline has 7 products in advanced stages; 3) Divi's Labs and Laurus Labs benefiting from China+1 strategy in CDMO; 4) USFDA inspection outcomes improving - fewer warning letters compared to 2022. Growth catalysts: $250 billion worth of branded drugs going off-patent by 2030, increasing healthcare spending in emerging markets, and PLI scheme incentives of ₹15,000 crore. Risks: US pricing pressure through Inflation Reduction Act, API import dependency on China (68% of API imports), and currency fluctuations.",
+    "source": "Market Research Report",
+    "sector": "Pharmaceuticals",
+    "sentiment": "bullish"
+  },
+  {
+    "id": "MR004",
+    "title": "Auto Sector: EV Transition and Market Dynamics",
+    "category": "Sector Analysis",
+    "date": "2024-10-20",
+    "content": "The Indian automobile sector is undergoing a structural transformation with EV adoption accelerating. Key data points: 1) EV penetration reached 6.4% of total vehicle sales in September 2024 (up from 4.7% in 2023); 2) Tata Motors leads EV market with 62% share; Mahindra's XEV 9e and BE 6e bookings exceeded expectations; 3) Maruti Suzuki's SUV portfolio (Grand Vitara, Fronx, Brezza) now contributes 55% of revenue; 4) Two-wheeler EVs: Ola Electric and Ather Energy dominate with 50% combined market share. Macro factors: Rising crude oil prices favor EV adoption; FAME III subsidy extension expected; battery costs declining 8-10% annually. Valuation: Nifty Auto index at 26x P/E (premium to historical average of 20x). Top picks: M&M (SUV + Farm Equipment), Tata Motors (JLR + EV), and Bajaj Auto (exports recovery).",
+    "source": "Market Research Report",
+    "sector": "Automobile",
+    "sentiment": "positive"
+  },
+  {
+    "id": "MR005",
+    "title": "Indian Real Estate Market: Residential Boom Continues",
+    "category": "Sector Analysis",
+    "date": "2024-10-05",
+    "content": "Indian residential real estate market recorded strongest sales in a decade. Key statistics: 1) Housing sales across top 7 cities reached 3.5 lakh units in H1 FY25, up 18% YoY; 2) New launches at 3.1 lakh units in H1 FY25; 3) Average price appreciation of 8-12% across metros; 4) Inventory overhang reduced to 16 months (healthy level) from 42 months in 2017. Listed players performance: DLF reported pre-sales of ₹7,094 crore in Q2 FY25; Godrej Properties achieved ₹5,200 crore booking value; Prestige Estates expanding pan-India presence. Risks: 1) Affordability concerns with price-to-income ratio rising; 2) Interest rate sensitivity - 50 bps rate hike can reduce demand by 5-8%; 3) Regulatory delays in approvals. REITs: Embassy REIT and Mindspace REIT offering 6-7% distribution yield with capital appreciation potential.",
+    "source": "Market Research Report",
+    "sector": "Real Estate",
+    "sentiment": "bullish"
+  },
+  {
+    "id": "MR006",
+    "title": "Macro Economic Review: India GDP and Inflation",
+    "category": "Macro Analysis",
+    "date": "2024-11-10",
+    "content": "India's macroeconomic indicators for Q2 FY25: 1) GDP growth at 6.7% YoY (RBI estimate for FY25: 7.0%); 2) CPI inflation at 5.49% in September 2024, above RBI's 4% target but within tolerance band; 3) Core inflation remained stable at 3.5%; food inflation at 9.24% (vegetable prices key driver); 4) Fiscal deficit at 45.6% of budget estimate through H1 FY25; 5) Current account deficit at 1.1% of GDP; 6) Foreign exchange reserves at $690 billion. RBI MPC outlook: Repo rate held at 6.50% for 10th consecutive meeting; stance changed to 'neutral' from 'withdrawal of accommodation', signaling potential rate cut in Q4 FY25. IMF projects India as the fastest-growing major economy in 2024-25. Key risks: Global slowdown, crude oil price volatility, geopolitical tensions (Middle East), and El Niño impact on agriculture.",
+    "source": "Economic Research Report",
+    "sector": "Macro",
+    "sentiment": "cautiously_optimistic"
+  },
+  {
+    "id": "MR007",
+    "title": "FMCG Sector: Rural Recovery and Premium Shift",
+    "category": "Sector Analysis",
+    "date": "2024-10-25",
+    "content": "Indian FMCG sector showing signs of recovery in H2 FY25. Volume growth improved to 6-8% after muted performance in H1. Key highlights: 1) HUL reported 2% volume growth in Q2 FY25 with ₹15,319 crore revenue; premium portfolio growing at 2x overall rate; 2) ITC's FMCG business crossed ₹5,000 crore quarterly revenue, EBITDA margin expanding to 10%; 3) Nestle India maintained 7-8% value growth with pricing power in premium segments; 4) Dabur and Marico gaining rural traction. Trends: Rural demand recovery (normal monsoon aiding), premiumization driving mix improvement, quick commerce (Blinkit, Zepto) disrupting distribution but aiding premium product discovery. Risks: Commodity cost inflation (palm oil, crude), competitive intensity from D2C brands, and regulatory changes on advertising. Sector trading at 42x P/E, premium justified by earnings visibility and defensive nature.",
+    "source": "Market Research Report",
+    "sector": "FMCG",
+    "sentiment": "neutral_to_positive"
+  },
+  {
+    "id": "MR008",
+    "title": "Renewable Energy: India's Green Transition",
+    "category": "Sector Analysis",
+    "date": "2024-11-05",
+    "content": "India's renewable energy capacity reached 190 GW (including large hydro) as of September 2024, on track for 500 GW by 2030 target. Solar capacity at 82 GW, wind at 46 GW. Key developments: 1) Adani Green Energy commissioned 2.8 GW in H1 FY25, total operational capacity at 11.2 GW; 2) Tata Power's renewable portfolio grew 40% YoY; 3) NTPC Green Energy IPO (₹10,000 crore) oversubscribed 2x; 4) Solar module prices declined 30% YoY to $0.10/W due to Chinese oversupply. Policy support: PLI scheme for solar manufacturing (₹19,500 crore), Green Hydrogen Mission (₹19,744 crore), and Offshore Wind target of 37 GW by 2030. Investment opportunity: India needs $150 billion investment in renewables by 2030. Risks: Grid integration challenges, land acquisition delays, counterparty risk from state discoms.",
+    "source": "Market Research Report",
+    "sector": "Renewable Energy",
+    "sentiment": "strongly_bullish"
+  },
+  {
+    "id": "MR009",
+    "title": "Global Market Impact on Indian Equities",
+    "category": "Global Analysis",
+    "date": "2024-10-30",
+    "content": "Global factors influencing Indian markets in Q4 2024: 1) US Federal Reserve cut rates by 50 bps to 4.75-5.00% in September; market expects 2 more cuts in 2024; positive for emerging market flows; 2) China's stimulus package ($1.4 trillion) redirected FII flows away from India to Chinese equities; FII outflow from India was ₹94,000 crore in October 2024; 3) US Dollar Index (DXY) at 104, INR trading at 84.10 per USD; 4) Brent crude at $72/barrel, within India's comfort zone of $70-80; 5) Japan's policy normalization (rate hike to 0.25%) caused brief carry-trade unwind in August. India-specific resilience factors: strong domestic demand, corporate earnings growth of 10-12%, and DII SIP flows providing structural support. Correlation between S&P 500 and Nifty 50 has increased to 0.72 from 0.55 five years ago.",
+    "source": "Global Strategy Report",
+    "sector": "Global",
+    "sentiment": "mixed"
+  },
+  {
+    "id": "MR010",
+    "title": "Infrastructure and Capital Goods: Government Spending Push",
+    "category": "Sector Analysis",
+    "date": "2024-10-18",
+    "content": "India's infrastructure sector benefiting from record government capex of ₹11.1 lakh crore in FY25 budget. Key developments: 1) National Highway construction at 32 km/day; total network crossed 1.5 lakh km; 2) Larsen & Toubro order book at ₹4.8 lakh crore (record high), revenue growth of 20% in Q2 FY25; 3) Bharti Airtel and Jio investing ₹70,000+ crore each in 5G rollout; 4) Smart Cities Mission: 100 cities with ₹48,000 crore allocated; 5) PM Gati Shakti multimodal connectivity improving logistics efficiency. Defence manufacturing: Orders worth ₹1.5 lakh crore placed with private sector; HAL, BEL, and Bharat Forge major beneficiaries. Risks: Execution delays, state-level fiscal constraints, and land acquisition challenges. Nifty Infra index up 35% in 2024, valuation at 28x P/E.",
+    "source": "Market Research Report",
+    "sector": "Infrastructure",
+    "sentiment": "bullish"
+  }
+]

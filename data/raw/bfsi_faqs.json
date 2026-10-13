@@ -1,0 +1,212 @@
+[
+  {
+    "id": "FAQ001",
+    "category": "Banking",
+    "question": "What is the penalty for early loan foreclosure?",
+    "answer": "Foreclosure charges depend on the loan type. For floating rate home loans, banks cannot charge foreclosure penalties as per RBI guidelines issued in 2012. For fixed rate loans, the penalty is typically 2-4% of the outstanding principal. Personal loans may attract a foreclosure fee of 2-5% depending on the lender's policy. It is recommended to check your loan agreement for specific terms.",
+    "source": "RBI Master Direction on Interest Rate on Advances, 2024"
+  },
+  {
+    "id": "FAQ002",
+    "category": "Stock Market",
+    "question": "What is a circuit breaker in the stock market?",
+    "answer": "Circuit breakers are automatic mechanisms that halt trading when the market index (Sensex or Nifty 50) moves beyond prescribed limits. SEBI has set three levels: Level 1 at 10% movement triggers a 45-minute halt if before 1 PM, 15 minutes if between 1-2:30 PM; Level 2 at 15% triggers a 1 hour 45 minute halt if before 1 PM; Level 3 at 20% triggers trading halt for the remainder of the day regardless of time.",
+    "source": "SEBI Circular on Index-based Market-wide Circuit Breakers, 2023"
+  },
+  {
+    "id": "FAQ003",
+    "category": "Mutual Funds",
+    "question": "What is the difference between direct and regular mutual fund plans?",
+    "answer": "Direct plans are purchased directly from the Asset Management Company (AMC) without any intermediary, resulting in a lower expense ratio (typically 0.5-1% less than regular plans). Regular plans are purchased through distributors or brokers who receive a commission. Over long investment horizons (10+ years), direct plans can result in 10-15% higher returns due to the compounding effect of the lower expense ratio.",
+    "source": "AMFI Guidelines on Mutual Fund Distribution, 2024"
+  },
+  {
+    "id": "FAQ004",
+    "category": "Risk Management",
+    "question": "What is Value at Risk (VaR) and how is it calculated?",
+    "answer": "Value at Risk (VaR) is a statistical measure that quantifies the maximum potential loss of a portfolio over a specific time period at a given confidence level. For example, a 1-day 95% VaR of ₹10 lakh means there is a 95% probability that the portfolio will not lose more than ₹10 lakh in a single day. VaR can be calculated using three methods: Historical Simulation (uses past return data), Variance-Covariance (assumes normal distribution of returns), and Monte Carlo Simulation (generates random scenarios). SEBI mandates mutual funds to disclose portfolio VaR in their factsheets.",
+    "source": "SEBI Risk Management Framework for Mutual Funds, 2024"
+  },
+  {
+    "id": "FAQ005",
+    "category": "Stock Market",
+    "question": "What are the different order types available on stock exchanges?",
+    "answer": "Indian stock exchanges (NSE/BSE) support several order types: 1) Market Order - executes at the best available price immediately; 2) Limit Order - executes only at the specified price or better; 3) Stop Loss Order - triggers a market/limit order when the stock reaches a specified price; 4) After Market Order (AMO) - placed outside trading hours for execution at market open; 5) Bracket Order - combines a limit order with a stop loss and target price; 6) Cover Order - a market order with a mandatory stop loss. GTT (Good Till Triggered) orders remain active until the trigger price is hit or the order is cancelled.",
+    "source": "NSE Trading Guidelines, 2024"
+  },
+  {
+    "id": "FAQ006",
+    "category": "Portfolio Management",
+    "question": "What is Modern Portfolio Theory and how does it guide asset allocation?",
+    "answer": "Modern Portfolio Theory (MPT), developed by Harry Markowitz, suggests that investors can construct an 'efficient frontier' of optimal portfolios offering the maximum expected return for a given level of risk. Key principles: 1) Diversification reduces portfolio risk without proportionally reducing returns; 2) The optimal portfolio lies on the efficient frontier; 3) Asset correlation is crucial - combining assets with low or negative correlation reduces overall risk. For Indian investors, a typical moderate-risk allocation might be: 40-50% large-cap equities, 15-20% mid/small-cap, 20-25% debt instruments, 5-10% gold, and 5% international equities.",
+    "source": "CFA Institute Investment Management Guide, 2024"
+  },
+  {
+    "id": "FAQ007",
+    "category": "Banking",
+    "question": "What are the RBI guidelines on Non-Performing Assets (NPAs)?",
+    "answer": "As per RBI guidelines, a loan becomes a Non-Performing Asset (NPA) when the borrower fails to pay interest or principal for 90 days (for commercial banks). NPAs are classified into three categories: 1) Sub-standard Assets - NPA for less than 12 months, requiring 15% provisioning; 2) Doubtful Assets - NPA for more than 12 months, requiring 25-100% provisioning; 3) Loss Assets - identified as uncollectible, requiring 100% provisioning. The RBI introduced the Prompt Corrective Action (PCA) framework to monitor banks with high NPAs, imposing restrictions on dividend distribution, branch expansion, and management compensation.",
+    "source": "RBI Master Circular on Prudential Norms on Income Recognition, Asset Classification and Provisioning, 2024"
+  },
+  {
+    "id": "FAQ008",
+    "category": "Insurance",
+    "question": "What is the difference between term insurance and endowment plans?",
+    "answer": "Term Insurance provides pure life cover for a specified period at low premiums. If the policyholder dies during the term, the nominee receives the sum assured. There is no maturity benefit if the policyholder survives the term. A ₹1 crore term plan for a 30-year-old non-smoker typically costs ₹8,000-12,000 per year. Endowment Plans combine insurance with savings. Premiums are higher but the policyholder receives a maturity benefit (sum assured + bonuses) if they survive the term. Returns are typically 4-6% per annum. IRDAI recommends that individuals have life cover of at least 10 times their annual income.",
+    "source": "IRDAI Guidelines on Life Insurance Products, 2024"
+  },
+  {
+    "id": "FAQ009",
+    "category": "Stock Market",
+    "question": "How does the Nifty 50 index work and what determines its composition?",
+    "answer": "The Nifty 50 is a benchmark stock market index representing the weighted average of 50 of the largest Indian companies listed on the National Stock Exchange (NSE). It is maintained by NSE Indices (formerly India Index Services & Products). Composition criteria: 1) Must be listed on NSE; 2) Must be among the top 50 companies by free-float market capitalization; 3) Must have adequate liquidity (impact cost of 0.50% or less for 90% of observations); 4) Must have a listing history of at least 6 months. The index is reviewed semi-annually in March and September. As of 2024, IT sector has the highest weightage (~14%), followed by Financial Services (~13%) and Oil & Gas (~12%).",
+    "source": "NSE Indices Methodology Document, 2024"
+  },
+  {
+    "id": "FAQ010",
+    "category": "Risk Management",
+    "question": "What is market volatility and how is it measured in India?",
+    "answer": "Market volatility measures the degree of variation in stock prices over time. In India, it is primarily measured by: 1) India VIX (Volatility Index) - computed by NSE using Nifty 50 options prices, indicating expected market volatility over the next 30 days. A VIX below 15 indicates low volatility (calm markets), 15-25 indicates moderate volatility, and above 25 indicates high volatility (fear/uncertainty). 2) Standard Deviation of returns - measures historical volatility of individual stocks or portfolios. 3) Beta - measures a stock's volatility relative to the market index. During COVID-19 in March 2020, India VIX spiked to 83.6, the highest ever recorded. Typical long-term average is around 15-18.",
+    "source": "NSE India VIX White Paper, 2024"
+  },
+  {
+    "id": "FAQ011",
+    "category": "Portfolio Management",
+    "question": "What are the different types of equity mutual fund categories as per SEBI?",
+    "answer": "SEBI has categorized equity mutual funds into the following categories: 1) Large Cap - minimum 80% in top 100 companies by market cap; 2) Mid Cap - minimum 65% in 101st-250th companies; 3) Small Cap - minimum 65% in 251st and beyond; 4) Multi Cap - minimum 25% each in large, mid, and small cap; 5) Flexi Cap - minimum 65% in equity with flexibility across market caps; 6) ELSS (Tax Saver) - minimum 80% in equity with 3-year lock-in, eligible for ₹1.5 lakh deduction under Section 80C; 7) Sectoral/Thematic - minimum 80% in a specific sector or theme; 8) Focused Fund - maximum 30 stocks with minimum 65% in equity.",
+    "source": "SEBI Mutual Fund Categorization Circular, 2023"
+  },
+  {
+    "id": "FAQ012",
+    "category": "Banking",
+    "question": "What is the CRAR (Capital to Risk-weighted Assets Ratio) requirement for Indian banks?",
+    "answer": "CRAR, also known as Capital Adequacy Ratio (CAR), measures a bank's capital in relation to its risk-weighted assets. RBI mandates minimum CRAR requirements under Basel III norms: 1) Minimum Common Equity Tier 1 (CET1) - 5.5% of risk-weighted assets; 2) Minimum Tier 1 capital - 7% of risk-weighted assets; 3) Minimum Total Capital (CRAR) - 9% of risk-weighted assets (higher than Basel III's 8% global standard); 4) Capital Conservation Buffer (CCB) - additional 2.5%; 5) Countercyclical Buffer - 0-2.5% as determined by RBI. Systemically Important Banks (D-SIBs like SBI, ICICI, HDFC Bank) need an additional 0.2-0.8% surcharge.",
+    "source": "RBI Basel III Capital Regulations, 2024"
+  },
+  {
+    "id": "FAQ013",
+    "category": "Stock Market",
+    "question": "What is short selling and what are the regulations in India?",
+    "answer": "Short selling is the practice of selling securities that the seller does not own, with the intention of buying them back at a lower price. In India, SEBI allows: 1) Institutional investors (FIIs, mutual funds) to short sell in the cash market with mandatory borrowing through the Securities Lending and Borrowing (SLB) mechanism; 2) Retail investors can short sell on an intraday basis without borrowing; 3) Naked short selling (without borrowing) for delivery is not permitted; 4) Short selling is permitted in futures and options segments. SEBI requires disclosure of short positions at the end of each trading day. The SLB framework allows lending fees of 0.5-5% depending on demand.",
+    "source": "SEBI Framework for Short Selling, 2024"
+  },
+  {
+    "id": "FAQ014",
+    "category": "Risk Management",
+    "question": "What is the Sharpe Ratio and how should investors use it?",
+    "answer": "The Sharpe Ratio, developed by William Sharpe, measures risk-adjusted return by calculating the excess return per unit of risk: Sharpe Ratio = (Portfolio Return - Risk-Free Rate) / Portfolio Standard Deviation. Interpretation: A ratio above 1.0 is considered good, above 2.0 is very good, and above 3.0 is excellent. For Indian markets, the risk-free rate is typically the 10-year government bond yield (around 7.0-7.5% as of 2024). Example: If a fund returns 15% with 12% standard deviation and risk-free rate is 7%, Sharpe = (15-7)/12 = 0.67. When comparing mutual funds, choose the one with the higher Sharpe Ratio as it provides better return for the risk taken.",
+    "source": "CFA Institute Portfolio Performance Measurement, 2024"
+  },
+  {
+    "id": "FAQ015",
+    "category": "Portfolio Management",
+    "question": "How should one diversify a portfolio across sectors in the Indian market?",
+    "answer": "Effective sector diversification in the Indian market involves: 1) Core Holdings (40-50%): Banking & Financial Services (HDFC Bank, ICICI, Kotak), IT Services (TCS, Infosys, Wipro) - these are the two largest Nifty sectors; 2) Growth Allocation (20-30%): Pharmaceuticals, Auto & EV, Renewable Energy, Digital/Fintech; 3) Defensive Holdings (15-20%): FMCG (HUL, ITC, Nestle), Utilities, Healthcare; 4) Tactical Allocation (5-10%): Infrastructure, Metals, Chemicals based on economic cycle. Key rules: No single sector should exceed 25% of portfolio, maintain at least 5-7 sectors, review sector weights quarterly. During high VIX periods (>25), increase defensive allocation to 30%.",
+    "source": "AMFI Best Practices for Portfolio Construction, 2024"
+  },
+  {
+    "id": "FAQ016",
+    "category": "Stock Market",
+    "question": "What are FII and DII flows and how do they impact the Indian stock market?",
+    "answer": "FII (Foreign Institutional Investor) and DII (Domestic Institutional Investor) flows significantly impact Indian market direction. FIIs include foreign mutual funds, pension funds, hedge funds, and sovereign wealth funds. DIIs include Indian mutual funds, insurance companies (LIC, etc.), and banks. Key impacts: 1) FII net buying typically drives markets up; sustained FII selling (like ₹1.34 lakh crore outflow in Oct-Nov 2024) causes significant corrections; 2) DII flows have been a stabilizing force, absorbing FII selling through SIP inflows (₹21,000+ crore monthly as of 2024); 3) FII flows are influenced by global factors (US Fed rates, dollar index, global risk appetite); 4) SEBI requires FIIs to register and disclose positions daily.",
+    "source": "NSDL FII/FPI Data Reports, 2024"
+  },
+  {
+    "id": "FAQ017",
+    "category": "Banking",
+    "question": "What is the repo rate and how does it affect the economy?",
+    "answer": "The repo rate is the rate at which the Reserve Bank of India (RBI) lends money to commercial banks against government securities. Current repo rate: 6.50% (as of October 2024). Impact: 1) When RBI increases repo rate, borrowing becomes expensive, slowing inflation but also economic growth; 2) When RBI decreases repo rate, borrowing becomes cheaper, stimulating spending and investment; 3) Banks typically adjust their lending rates (linked to External Benchmark Lending Rate - EBLR) within 1-3 months of a repo rate change; 4) A 25 basis point cut typically reduces home loan EMIs by ₹150-200 per ₹10 lakh outstanding. The Monetary Policy Committee (MPC) reviews the repo rate bi-monthly (6 times a year).",
+    "source": "RBI Monetary Policy Statement, October 2024"
+  },
+  {
+    "id": "FAQ018",
+    "category": "Risk Management",
+    "question": "What is portfolio beta and how does it help in risk assessment?",
+    "answer": "Portfolio beta measures the sensitivity of a portfolio's returns relative to market returns (Nifty 50 or Sensex). Beta = 1 means the portfolio moves in line with the market; Beta > 1 indicates higher volatility than the market (aggressive); Beta < 1 indicates lower volatility (defensive). Calculation: Portfolio Beta = Weighted sum of individual stock betas. Example: If 50% of portfolio is in HDFC Bank (beta 0.9) and 50% in Tata Motors (beta 1.3), Portfolio Beta = 0.5*0.9 + 0.5*1.3 = 1.1. Risk implications: A portfolio beta of 1.1 means if Nifty falls 10%, the portfolio is expected to fall 11%. Conservative investors should target beta < 0.8; moderate investors 0.8-1.2; aggressive investors > 1.2.",
+    "source": "NSE Market Analytics, 2024"
+  },
+  {
+    "id": "FAQ019",
+    "category": "Insurance",
+    "question": "What are ULIPs and how do they compare to mutual funds?",
+    "answer": "Unit Linked Insurance Plans (ULIPs) are hybrid products combining life insurance with market-linked investment. Key features: 1) Lock-in period of 5 years (vs 0 for most mutual funds, 3 years for ELSS); 2) Charges: Premium allocation (2-5%), fund management (1.35% max as per IRDAI), mortality charges, administration charges; 3) Tax benefit: Premium up to ₹1.5 lakh eligible under Section 80C; maturity proceeds tax-free under Section 10(10D) if annual premium ≤ ₹2.5 lakh; 4) Switching between equity, debt, and balanced funds within ULIP is free (typically 4-12 free switches per year). Comparison: Mutual funds generally offer higher returns due to lower expense ratios and professional management focus, while ULIPs provide insurance cover.",
+    "source": "IRDAI ULIP Guidelines, 2024"
+  },
+  {
+    "id": "FAQ020",
+    "category": "Portfolio Management",
+    "question": "What is systematic investment planning (SIP) and what are its benefits?",
+    "answer": "Systematic Investment Plan (SIP) allows investors to invest a fixed amount regularly (weekly, monthly, quarterly) in mutual funds. Benefits: 1) Rupee Cost Averaging - automatically buys more units when prices are low and fewer when prices are high, averaging out the cost; 2) Power of Compounding - ₹10,000 monthly SIP in a fund returning 12% CAGR grows to ₹1 crore in ~20 years; 3) Disciplined investing - removes emotional bias and market timing pressure; 4) Flexibility - can increase (step-up SIP), decrease, pause, or stop anytime; 5) Low entry barrier - start with as little as ₹100-500/month. SIP flows into Indian mutual funds have grown from ₹3,000 crore/month in 2017 to over ₹21,000 crore/month in 2024.",
+    "source": "AMFI Monthly SIP Data Report, 2024"
+  },
+  {
+    "id": "FAQ021",
+    "category": "Stock Market",
+    "question": "What are the key financial ratios investors should analyze before buying stocks?",
+    "answer": "Essential financial ratios for stock analysis: 1) P/E Ratio (Price to Earnings) - current share price divided by EPS; Nifty 50 historical average is ~20-22x; 2) P/B Ratio (Price to Book) - market price per share divided by book value; useful for banking stocks (ideal <2x); 3) ROE (Return on Equity) - net income/shareholders' equity; >15% is considered good; 4) Debt-to-Equity Ratio - total debt/total equity; <1 is healthy for most sectors (banks are exceptions); 5) Current Ratio - current assets/current liabilities; >1.5 is comfortable; 6) EV/EBITDA - enterprise value/EBITDA; useful for comparing companies across sectors; 7) Dividend Yield - annual dividend/share price; >2% indicates income-generating stock.",
+    "source": "BSE Investor Education Guide, 2024"
+  },
+  {
+    "id": "FAQ022",
+    "category": "Risk Management",
+    "question": "What is credit risk and how do credit rating agencies assess it in India?",
+    "answer": "Credit risk is the risk of loss due to a borrower's failure to repay a loan or meet contractual obligations. In India, SEBI-registered credit rating agencies include CRISIL, ICRA, CARE, India Ratings, and Acuite. Rating scale: AAA (highest safety, lowest risk), AA, A, BBB (investment grade), BB, B, C, D (default). Key assessment factors: 1) Business Risk - industry position, competitive advantage, revenue stability; 2) Financial Risk - leverage, coverage ratios, cash flow adequacy; 3) Management Quality - governance, track record, strategy; 4) Industry Risk - cyclicality, regulatory environment. For mutual fund investors, credit risk funds invest in lower-rated bonds (AA and below) offering higher yields but with higher default risk.",
+    "source": "SEBI Credit Rating Agency Regulations, 2024"
+  },
+  {
+    "id": "FAQ023",
+    "category": "Banking",
+    "question": "What is the difference between NEFT, RTGS, IMPS, and UPI payment systems?",
+    "answer": "India's payment systems differ in speed, limits, and availability: 1) NEFT (National Electronic Funds Transfer) - batch processing every 30 minutes, 24x7 availability, no minimum/maximum limit, charges: up to ₹2.50 + GST for amounts above ₹2 lakh; 2) RTGS (Real Time Gross Settlement) - real-time settlement, 24x7, minimum ₹2 lakh with no maximum limit, charges: up to ₹25 + GST; 3) IMPS (Immediate Payment Service) - instant transfer 24x7, limit up to ₹5 lakh, charges: ₹2.50-25 based on amount; 4) UPI (Unified Payments Interface) - instant P2P/P2M transfers, limit ₹1 lakh (₹2 lakh for some banks), generally free for users. UPI processed 13.9 billion transactions worth ₹20.64 lakh crore in October 2024.",
+    "source": "RBI Payment System Indicators, 2024"
+  },
+  {
+    "id": "FAQ024",
+    "category": "Stock Market",
+    "question": "What is an IPO and what is the process for investing in one in India?",
+    "answer": "An Initial Public Offering (IPO) is when a private company offers its shares to the public for the first time. IPO process in India: 1) Company files Draft Red Herring Prospectus (DRHP) with SEBI; 2) SEBI reviews and approves within 30 days; 3) Company sets price band (e.g., ₹150-160 per share); 4) Bidding period opens for 3-5 working days; 5) Categories: Retail Individual (RII - up to ₹2 lakh), Non-Institutional (NII/HNI - above ₹2 lakh), Qualified Institutional (QIB - mutual funds, FIIs); 6) Allotment through lottery for oversubscribed categories; 7) Listing within 6 working days (T+3 for recent IPOs). Key metrics: GMP (Grey Market Premium), subscription ratio, and promoter holding post-IPO.",
+    "source": "SEBI ICDR Regulations, 2024"
+  },
+  {
+    "id": "FAQ025",
+    "category": "Portfolio Management",
+    "question": "What is rebalancing and how often should an investor rebalance their portfolio?",
+    "answer": "Portfolio rebalancing is the process of realigning asset weights to maintain the original target allocation. Methods: 1) Calendar Rebalancing - review at fixed intervals (quarterly or semi-annually recommended for most investors); 2) Threshold Rebalancing - rebalance when any asset class deviates by more than 5% from target; 3) Tactical Rebalancing - based on market conditions and economic outlook. Example: If target is 60% equity/40% debt, and equity grows to 70%/debt 30%, sell equity and buy debt to restore 60/40. Benefits: Controls risk, enforces buy-low-sell-high discipline. Tax consideration: Use new investments to rebalance (avoid selling to minimize capital gains tax). Rebalancing typically adds 0.5-1% to annual returns over the long term.",
+    "source": "Morningstar India Portfolio Management Guide, 2024"
+  },
+  {
+    "id": "FAQ026",
+    "category": "Stock Market",
+    "question": "What are the major sectors of the Indian stock market and their current outlook?",
+    "answer": "Major sectors on NSE/BSE and their outlook as of 2024: 1) Information Technology (14% of Nifty) - moderate growth expected, AI adoption driving demand but margin pressure from wage inflation; 2) Financial Services (33% of Nifty) - strong credit growth at 15-16%, improving asset quality, digital lending boosting profitability; 3) Oil & Gas (12% of Nifty) - volatile due to global crude prices, government's green energy push creating long-term transition risk; 4) FMCG (8% of Nifty) - rural recovery driving volume growth, premium segment outperforming mass segment; 5) Automobile (5% of Nifty) - EV transition accelerating, SUV segment driving revenue growth; 6) Pharmaceuticals (4% of Nifty) - strong US generic pipeline, biosimilar opportunity, CDMO growth.",
+    "source": "NSE Sector Analysis Report, Q3 2024"
+  },
+  {
+    "id": "FAQ027",
+    "category": "Risk Management",
+    "question": "What is stress testing and how do Indian financial institutions use it?",
+    "answer": "Stress testing evaluates how a portfolio or financial institution would perform under extreme but plausible adverse scenarios. Types: 1) Sensitivity Analysis - tests the impact of a single variable change (e.g., Nifty drops 20%); 2) Scenario Analysis - tests multiple simultaneous changes (e.g., Nifty drops 20% + rupee depreciates 10% + interest rates rise 200 bps); 3) Reverse Stress Testing - identifies scenarios that could cause the institution to fail. RBI mandates all scheduled commercial banks to conduct stress tests quarterly. SEBI requires mutual funds to perform liquidity stress tests. Key scenarios tested: GDP growth slowdown, oil price spike, global financial contagion, monsoon failure, geopolitical tensions.",
+    "source": "RBI Guidelines on Stress Testing, 2024"
+  },
+  {
+    "id": "FAQ028",
+    "category": "Banking",
+    "question": "What is a fixed deposit (FD) and what are the current interest rates?",
+    "answer": "A Fixed Deposit is a financial instrument where money is deposited for a fixed tenure at a predetermined interest rate. Current FD rates (as of Q4 2024): SBI: 6.50-7.10% (general), 7.00-7.60% (senior citizens); HDFC Bank: 6.60-7.25% (general); Post Office Time Deposit: 6.90-7.50%. Key features: 1) Tenure ranges from 7 days to 10 years; 2) Premature withdrawal attracts 0.5-1% penalty; 3) Tax deducted at source (TDS) at 10% if interest exceeds ₹40,000/year (₹50,000 for senior citizens); 4) FDs up to ₹5 lakh per depositor per bank are insured by DICGC; 5) Tax-saving FDs (5-year lock-in) eligible for Section 80C deduction up to ₹1.5 lakh.",
+    "source": "RBI Data on Domestic Deposit Rates, 2024"
+  },
+  {
+    "id": "FAQ029",
+    "category": "Portfolio Management",
+    "question": "What are the tax implications of various investment instruments in India?",
+    "answer": "Tax treatment of key investments (FY 2024-25): 1) Equity (held >1 year): LTCG at 12.5% above ₹1.25 lakh exemption; STCG at 20%; 2) Equity Mutual Funds: same as equity; 3) Debt Mutual Funds: taxed at income tax slab rate regardless of holding period (post April 2023 amendment); 4) Fixed Deposits: interest taxed at slab rate; 5) PPF: EEE (exempt-exempt-exempt), 15-year lock-in; 6) NPS: 80CCD(1B) additional ₹50,000 deduction; 60% corpus taxable at withdrawal; 7) Gold/Real Estate: LTCG at 12.5% after 2 years; 8) REITs/InvITs: dividend taxed at slab rate, capital gains similar to equity. Note: STT (Securities Transaction Tax) at 0.1% on equity delivery trades.",
+    "source": "Income Tax Act Amendments, Finance Act 2024"
+  },
+  {
+    "id": "FAQ030",
+    "category": "Risk Management",
+    "question": "How does currency risk affect international investments and how can it be hedged?",
+    "answer": "Currency risk (exchange rate risk) arises when Indian investors invest in foreign assets. If the rupee appreciates against the dollar, returns from US investments decrease when converted back. Example: If a US stock returns 10% in USD but INR appreciates 3% against USD, effective return is only ~7%. Hedging methods: 1) Currency Futures on NSE/BSE (USD/INR, EUR/INR, GBP/INR, JPY/INR contracts); 2) Currency Options for downside protection; 3) International mutual funds (some offer currency-hedged variants); 4) Natural hedging by matching foreign income with foreign expenses. RBI allows individuals to remit up to $250,000/year under the Liberalised Remittance Scheme (LRS). Note: Historically, INR has depreciated ~3-4% annually against USD, which actually benefits Indian investors in US assets.",
+    "source": "RBI LRS Guidelines and SEBI Currency Derivatives Framework, 2024"
+  }
+]
